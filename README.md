@@ -2,6 +2,10 @@
 
 ## Project setup
 ```
+Installation
+
+Clone the repository, checkout frontent branch
+
 npm install
 ```
 
