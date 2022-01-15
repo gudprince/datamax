@@ -4,7 +4,7 @@
 ```
 Installation
 
-Clone the repository, checkout frontent branch
+Clone the repository, checkout frontend branch
 
 npm install
 ```
