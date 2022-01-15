@@ -1,5 +1,7 @@
 Installation
 
+This Project is a single page web app. The project is divided into two branches, the frontend and backend branch
+
 Clone the repository, checkout backend branch
 
 Install dependencies (composer install)
